@@ -1,8 +1,9 @@
-## Programacion orientada a objetos 
+## Programacion orientada a objetos y Laboratorio.
 
--Nombre: Brayan Alejandro Luna ibarra 
+- Nombre : Brayan Alejandro Luna ibarra 
 
--correo: lunaibarrabrayan@gmail.com
+- correo : lunaibarrabrayan@gmail.com
 
 ## Actividad 1
 
+- _p01_HolaMundo 
