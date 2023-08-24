@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class  Practica1 {
+public class  _P10_CalcularHipotenusa {
     public static void main(String[] args) {
         double PrimerLado, SegundoLado , Hipotenusa;
         //Pedimos los datos 

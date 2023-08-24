@@ -8,6 +8,21 @@
 
 - _p01_HolaMundo 
 - _p02_AreaCirculo
+- _p03_AreaTRiangulo
+- _p04_PagaTrabajador
+
+## Actividad 2
 -
 -
 -
+-
+-
+## Practica 1
+- 
+-
+-
+-
+-
+## Actividad 2
+- _p16_trabajando enteros 
+- _
