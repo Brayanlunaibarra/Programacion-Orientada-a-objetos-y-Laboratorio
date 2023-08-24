@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class _p13_ConvertirTemperatura {
+public class _p12_ConvertirTemperatura {
     public static void main(String[] args) {
         double Celcius, fhahrenheir;
         Scanner obj = new Scanner(System.in);

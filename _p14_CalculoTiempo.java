@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class  _p15_CalculoTiempo {
+public class  _p14_CalculoTiempo {
     public static void main(String[] args) {
         double horas, minutos , Dias ,segundos;
         //Pedimos los datos 

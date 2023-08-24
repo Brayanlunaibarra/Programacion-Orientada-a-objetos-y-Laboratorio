@@ -1,7 +1,7 @@
 //los enteros son de 8 bites 
 //se puedn guardar binario , hexadesimal tec...
 // Trabajando con con variables y literales enteras
-public class _p16_trabajandoEnteros {
+public class _p15_trabajandoEnteros {
     public static void main(String[] args) {
         int num1 = 42;
         int num2 = 0x2A;

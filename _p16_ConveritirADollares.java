@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class  _p17_ConveritirADollares {
+public class  _p16_ConveritirADollares {
     public static void main(String[] args) {
         double Pesos,dollares,cotizacion;
         //Pedimos los datos 
