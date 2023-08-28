@@ -24,5 +24,5 @@
 -
 -
 ## Actividad 2
-- _p16_trabajando enteros 
-- _
+- _p16_TrabajandoEnteros 
+- _p17_TrabajandoFlotantes
