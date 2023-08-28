@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class  _P10_CalcularHipotenusa {
+public class  _p10_CalcularHipotenusa {
     public static void main(String[] args) {
         double PrimerLado, SegundoLado , Hipotenusa;
         //Pedimos los datos 
