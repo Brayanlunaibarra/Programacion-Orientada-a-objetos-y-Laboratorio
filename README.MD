@@ -23,9 +23,13 @@
 - _p13_VolumenCilindrico
 - _p14_CalculoTiempo
 - _p15_trabajandoEnteros 
-## Actividad 2
+## Actividad 3
 - _p16_TrabajandoEnteros 
 - _p17_TrabajandoFlotantes
 - _p18_TrabajandoConstantes
 - _p19_TrabajandoCaracteres
 - _p20_ConversionTipos
+## Actividad 4
+- _p21_VerificarNumeros
+- _p23_ConvertirTemperatura
+- _p24_PagaTrabajadorv2
