@@ -33,3 +33,20 @@
 - _p21_VerificarNumeros
 - _p23_ConvertirTemperatura
 - _p24_PagaTrabajadorv2
+## Actividad 5
+- _p25_EstacionesAño
+- _p26_TipoAngulo
+- _p27_AceptarEstudiante
+- _p28_LeyDeNewton
+## Actividad 6
+- _p29_Calculadora
+- _p30_DiaSemana
+- _p31_NumerosRomanos
+- _p32_PagoEstacionamiento 
+## Practica 2
+- p33-numeros-consecutivos
+- p34-numero-mayor
+- p35-continentes-mundo
+- p36-compra-pizza
+- p37-calculo-notas
+- p38-aceptar-estudiante-v2
