@@ -50,3 +50,11 @@
 - p36-compra-pizza
 - p37-calculo-notas
 - p38-aceptar-estudiante-v2
+## Actividad 7
+- _p39_Numeros1a100
+- _p40_Numeros100a1
+- _p41_ProcesacCalificaciones
+- _p42_TablaMultiplicar
+- _p43_ConteoNumeros
+## practica 3
+## Actividad 8
