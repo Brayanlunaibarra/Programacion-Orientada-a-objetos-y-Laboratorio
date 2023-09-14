@@ -23,5 +23,5 @@ public class _p47_ConjeturaCollatz {
         System.out.print("\nDeseas continuar (S/N) ? ");resp = Character.toUpperCase(obj.next().charAt(0));
     } while (resp != 'N');
     System.out.println("\nGracias por utilizar este programa !");
-}
+    }
 }
