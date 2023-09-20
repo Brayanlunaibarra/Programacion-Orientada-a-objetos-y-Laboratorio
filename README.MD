@@ -73,3 +73,23 @@
 - _p54_ArribaAbajo
 - _p55_SumaParesImpares
 - _p56_SumaPromedio
+## actividad 10
+- _p57_TablasMultiplicar
+- _p58_Piramide
+- _p59_FactorialNumeros
+- _p60_SumaTerminos
+## practica 4 
+
+## actividad 11
+- _p65_PromedioNumeros
+- 
+- 
+- 
+- _p69_CalificacionLetra
+
+## actividad 12
+- _p70_MayorTresNumeros
+- _p71_SumaDigitos
+- _p72_SumaParesImpares
+- _p73_Factorial
+- _p74_CuadroCaracter
