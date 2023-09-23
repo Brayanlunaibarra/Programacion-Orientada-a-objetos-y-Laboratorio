@@ -3,6 +3,7 @@
 - Nombre : Brayan Alejandro Luna ibarra 
 
 - correo : lunaibarrabrayan@gmail.com
+mayus + alt + f
 
 ## Actividad 1
 
@@ -93,3 +94,10 @@
 - _p72_SumaParesImpares
 - _p73_Factorial
 - _p74_CuadroCaracter
+
+## Practica 5 
+- _p75_NumeroMenor
+- _p76_DiaSemana
+- _p77_MedidasLongitud
+- _p78_SumaMultiplos
+- _p79_Angulo
