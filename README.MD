@@ -80,7 +80,9 @@ mayus + alt + f
 - _p59_FactorialNumeros
 - _p60_SumaTerminos
 ## practica 4 
-
+- _p61_SecuenciaNumeros1
+- _p62_SecuenciaNumeros2
+- 
 ## actividad 11
 - _p65_PromedioNumeros
 - 
