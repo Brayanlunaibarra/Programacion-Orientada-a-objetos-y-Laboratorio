@@ -29,13 +29,13 @@ public class _p80_PrimerExamenParcial {
 
             //pedimos los datos de cada usuario
             System.out.print("Dame el nombre: ");
-            nombre=obj.next();
+            nombre=obj.nextLine();
             System.out.print("Dame la edad : ");
             edad=obj.nextFloat();
             System.out.print("Dame su sexo M(masculino) y f(femenino) : ");
-            sexo =obj.next();
+            sexo =obj.nextLine();
             System.out.print("Dame Tipo de Participante (Alumno A, Docente D, Trabajador T): ");
-            tipoDeParticipante=obj.next();
+            tipoDeParticipante=obj.nextLine();
 
 
 

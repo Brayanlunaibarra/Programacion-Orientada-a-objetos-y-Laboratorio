@@ -112,3 +112,8 @@ mayus + alt + f
 - 
 - _p84_PromedioArreglo
 - _p85_NombresEdades
+## Actividad 14
+- _p86_AregloMostar
+- _p87_ArregloTemperaturas
+- _p88_Aleatorios
+- _p89_ArregloAleatorios
