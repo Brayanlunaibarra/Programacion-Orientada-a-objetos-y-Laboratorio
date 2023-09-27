@@ -106,3 +106,9 @@ mayus + alt + f
 
 ## Examen parcial 
 - _p80_PrimerExamenParcial
+## Actividad 13
+- _p81_InicializaArregloNumeros
+- 
+- 
+- _p84_PromedioArreglo
+- _p85_NombresEdades
