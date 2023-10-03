@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Programa {
+public class _p93_ParesImpares {
 
     // Declara dos arreglos de números enteros de una cantidad MAX 100
     public static final int MAX = 100;
