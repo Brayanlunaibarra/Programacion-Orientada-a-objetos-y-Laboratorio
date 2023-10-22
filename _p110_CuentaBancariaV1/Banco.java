@@ -27,7 +27,6 @@ public class Banco {
 
     @Override
     public String toString() {
-        return "Banco [Nombre=" + Nombre + ", Domicilio=" +
-                Domicilio + ", Clientes=" + Clientes.size() + "]";
+        return "Banco [Nombre=" + Nombre + ", Domicilio=" +Domicilio + ", Clientes=" + Clientes.size() + "]";
     }
 }
