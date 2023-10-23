@@ -19,6 +19,6 @@ public class JugadorActivo extends Jugador {
     }
     @Override
     public String toString() {
-        return "Jugador [Nombre=" + Nombre + ", Direccion=" + Direccion + ", Sexo=" + Sexo + ", Salario=" + Salario +"partidos=" + partidos + ", goles=" + goles + "total= "+ Salario+getBono()+"]";
+        return "Jugador Activo [Nombre=" + Nombre + ", Direccion=" + Direccion + ", Sexo=" + Sexo + ", Salario=" + Salario +"partidos=" + partidos + ", goles=" + goles + "total= "+ Salario+getBono()+"]";
     }
 }

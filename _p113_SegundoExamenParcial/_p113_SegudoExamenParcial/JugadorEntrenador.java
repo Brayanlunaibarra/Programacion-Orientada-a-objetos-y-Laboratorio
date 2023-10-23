@@ -16,7 +16,7 @@ public class JugadorEntrenador extends Jugador{
     }
     @Override
     public String toString() {
-        return "Jugador [Nombre=" + Nombre + ", Direccion=" + Direccion + ", Sexo=" + Sexo + ", Salario=" + Salario+"Subordinados=" + Subordinados + ", Proyectos=" + Proyectos  + "total= "+ Salario+getBono()+"]";
+        return "JugadorEntrenador[Nombre=" + Nombre + ", Direccion=" + Direccion + ", Sexo=" + Sexo + ", Salario=" + Salario+"Subordinados=" + Subordinados + ", Proyectos=" + Proyectos  + "total= "+ Salario+getBono()+"]";
     }
     
 
